@@ -92,4 +92,4 @@ d3.json(urlQuery).then(function(data) {
     // add the legend to the map
     legend.addTo(earthMap);
 });
-//Note: This challenge was researched for inspiration from Google, GitHub and slack
+//Note: This challenge gathered inspiration from Google, GitHub and Stack
