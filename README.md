@@ -1,6 +1,6 @@
-# Mapping
+# Mapping challenge
 
-## Background
+## Overview: mapping using Leaflet
 
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
 
@@ -32,7 +32,7 @@ Complete the following steps:
 
 ## Part 2: Gather and Plot More Data
 
-** Note: Part 2 is optional:
+**Note: Part 2 is optional:**
 
 Plot a second dataset to illustrate the relationship between tectonic plates and seismic activity. The dataset to visualize this needs to be pulled in alongside your original data.
 
